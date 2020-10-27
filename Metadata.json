@@ -1,0 +1,20 @@
+{
+    "Author": "Adarsh Mohata",
+    "ContentSize": 3104,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-log-alerts-to-icm-triggers-icm-for-azure-log-based-alerts/master/Create-AzureLogAlertsToICM.ps1",
+    "DownloadCount": 1481,
+    "Id": "Azure-Log-Alerts-to-IcM-987c8eb9",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 176,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-3-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script receives the incoming log alert data from Azure Log Analytics and Application Insights and creates equivalent ICM incidents in appropriate ICM environment. The runbook is dependent on the\u00a0AzureLogAlertsICMConnector module.",
+    "Title": "Azure Log Alerts to IcM - Triggers IcM for Azure Log based alerts",
+    "UpdatedDate": "2018-3-27T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-log-alerts-to-icm-triggers-icm-for-azure-log-based-alerts",
+    "UserTags": "Utility, Monitoring, Remediation"
+}
